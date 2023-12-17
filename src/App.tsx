@@ -6,7 +6,7 @@ function App() {
 
     let tasks1 = [
         {id: 1, isDone: true, name: 'Task 1'},
-        {id: 2, isDone: false, name: 'Task 2'},
+        {id: 2, isDone: true, name: 'Task 2'},
         {id: 3, isDone: true, name: 'Task 3'}
     ]
 
